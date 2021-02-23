@@ -3,7 +3,7 @@
 It is as simple to use github repositories as you open a folder and its files. <br>
 As you came here, just click on the files you want to see. <br>
 For example, index.html; you will be redirected on that file. <br>
-And to come back here, click on the blue coloured computer-class-activity text on that page. <br> <br>
+And to come back here, click on the blue coloured computer-class-activity text on that page. That's it! <br> <br>
 There are the following files uploaded here:* <br>
 * index.html
 * style.css
